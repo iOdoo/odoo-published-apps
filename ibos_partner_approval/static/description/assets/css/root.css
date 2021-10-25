@@ -52,7 +52,7 @@ a:hover {
 }
 /* Buttons */
 .primary-btn {
-  background: var(--primary-color);
+  background: #1C2880;
   color: #fff;
   font-size: 100%;
   font-weight: 500;
@@ -62,11 +62,11 @@ a:hover {
 }
 .primary-btn:hover {
   background: #fff;
-  color: var(--primary-color);
-  border-color: var(--primary-color);
+  color: #1C2880;
+  border-color: #1C2880;
 }
 .secondary-btn {
-  background: var(--secondary--color);
+  background: #444444;
   color: #fff;
   font-size: 100%;
   font-weight: 500;
@@ -76,8 +76,8 @@ a:hover {
 }
 .secondary-btn:hover {
   background: #fff;
-  color: var(--secondary--color);
-  border-color: var(--secondary--color);
+  color: #444444;
+  border-color: #444444;
 }
 .devider {
   padding: 15px 0;

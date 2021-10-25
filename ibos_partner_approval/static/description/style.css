@@ -1,6 +1,5 @@
 /* Import Other Dependency */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
-@import url("./assets/css/root.css");
 .our-logo {
   max-width: 25%;
   margin: 0 auto;
@@ -33,13 +32,13 @@ header .head > img {
   background: #fff;
 }
 .demo-card-contact .link {
-  background-color: var(--primary-color);
+  background-color: #1C2880;
   color: #091e42;
   font-weight: 500;
   font-size: 15px;
   margin: 0 auto;
   padding: 0;
-  border: 1px solid var(--primary-color);
+  border: 1px solid #1C2880;
   border-radius: 10px;
   display: flex;
   max-width: 350px;
@@ -71,12 +70,12 @@ header .head > img {
   padding-bottom: 20px;
 }
 .demo-card-heading h3 {
-  color: var(--primary-color);
+  color: #1C2880;
   font-weight: 600;
   text-transform: uppercase;
 }
 .demo-card-heading p {
-  color: var(--secondary--color);
+  color: #444444;
   font-weight: 500;
   padding-top: 10px;
   padding-bottom: 30px;
@@ -155,7 +154,7 @@ header .head > img {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   margin-right: 10px;
-  color: var(--secondary--color);
+  color: #444444;
   font-weight: 500;
 }
 .feature-wrapper .nav-tabs .nav-item.show .nav-link,
