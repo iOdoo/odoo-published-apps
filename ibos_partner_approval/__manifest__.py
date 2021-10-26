@@ -1,13 +1,17 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Partner Approval",
+    'name': "Partner (Customer/Supplier) Approval",
 
     'summary': """
-         Partner approval
+         partner approval 
+         Customer approval 
+         Access to user Role
+         partner & Customer create control
          """,
     'sequence': -36,
     'description': """
-        Partner approval
+        Partner Approval module is made to allow you to approve or reject contacts only by the
+                            contact manager.
     """,
     'author': "iBOS Limited",
     'website': "https://ibos.io",
